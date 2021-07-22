@@ -1,2 +1,2 @@
-# Portfolio inicial
- Projetos em python
+# Snake Game Python
+ Famoso jogo da cobrinha feito inteiramente em python! 
